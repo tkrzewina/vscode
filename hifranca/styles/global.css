@@ -57,3 +57,33 @@
         min-width: 10000px;
     }
 
+    #marketing {
+        background-color: #F46036;
+    }
+
+    #marketing > div {
+    padding: 15px;
+    }
+
+    .wrap {
+        margin: 0 auto;
+        padding: 0;
+        width: 1000px;
+    }
+
+    .feature .LeftColumn {
+        width: 50%;
+        float: left;
+        text-align: center;
+    }
+
+    .feature .RightColumn {
+        margin-left: 50%;
+        width: 50%;
+        text-align: center;
+    }
+
+    .featureImage img {
+        width: 500px;
+    }
+    
