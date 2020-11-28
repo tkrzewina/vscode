@@ -87,6 +87,43 @@
         overflow: hidden;
     }
 
+    #TopLinks li {
+        float: left;
+    }
+
+    #TopLinks li a {
+        color: #333;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+        -webkit-transition: all 250ms ease-out;
+        -ms-transition: all 250ms ease-out;
+        transition: all 250ms ease-out;
+    }
+
+    #TopLinks li a:hover {
+        color: #4392F1;
+        -webkit-transition: all 250ms ease-out;
+        -ms-transition: all 250ms ease-out;
+        transition: all 250ms ease-out;
+
+    }
+
+    #TopMenu .logo {
+        float: left;
+        padding-top: 13px;
+        font-size: 24px;
+        color: #333;
+        text-decoration: none;
+    }
+
+    #TomMenu .logo:hover {
+        color: #4392F1;
+    }
+
+    .logo {
+        font-family: "Anton", cursive;
+    }
 
     .feature .LeftColumn {
         width: 50%;
