@@ -125,6 +125,16 @@
         font-family: "Anton", cursive;
     }
 
+    #banner {
+        background-image: url("../images/jigsaw.png");
+        background-repeat: no-repeat;
+        background-position: center top;
+        width: 100%;
+        text-align: center;
+        padding-top: 300px;
+        color: #333;
+    }
+
     .feature .LeftColumn {
         width: 50%;
         float: left;
