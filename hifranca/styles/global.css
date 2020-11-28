@@ -13,7 +13,7 @@
     body {
         margin:0;
         padding:0;
-        font-family: "Open Sans", sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 25px;
         background-color: whitesmoke;
         color: #333;
@@ -54,7 +54,7 @@
     #marketing {
         text-align: center;
         color: #fff;
-        min-width: 10000px;
+        min-width: 1000px;
     }
 
     #marketing {
@@ -71,6 +71,23 @@
         width: 1000px;
     }
 
+    #TopMenu {
+        height: 60px;
+    }
+
+    #TopLinks {
+        float: right;
+        padding-top: 20px;
+    }
+
+    #TopLinks ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+
     .feature .LeftColumn {
         width: 50%;
         float: left;
@@ -83,6 +100,4 @@
         text-align: center;
     }
 
-    img {
-        width: 500px;
-    }
+
