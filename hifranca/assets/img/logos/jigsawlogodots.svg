@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="jigsawlogodots.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38291301"
+     inkscape:cx="331.33763"
+     inkscape:cy="587.68926"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect833"
+       style="fill:#f3ffaa;fill-opacity:1;stroke:none;stroke-width:34.0157;stroke-linecap:round;stroke-linejoin:round"
+       d="M 92.375 389.4707 C 88.147152 389.4707 84.742188 392.8757 84.742188 397.10352 L 84.742188 466.77148 A 151.1811 151.1811 0 0 1 93.273438 466.5293 A 151.1811 151.1811 0 0 1 244.45508 617.71094 A 151.1811 151.1811 0 0 1 93.273438 768.89062 A 151.1811 151.1811 0 0 1 84.742188 768.65039 L 84.742188 835.38281 C 84.742188 839.61067 88.147152 843.01563 92.375 843.01562 L 224.17383 843.01562 A 94.488189 94.488189 0 0 1 318.60938 751.65625 A 94.488189 94.488189 0 0 1 413.04492 843.01562 L 530.6543 843.01562 C 534.88215 843.01563 538.28711 839.61067 538.28711 835.38281 L 538.28711 397.10352 C 538.28711 392.8757 534.88215 389.4707 530.6543 389.4707 L 92.375 389.4707 z "
+       transform="scale(0.26458333)" />
+    <circle
+       style="fill:#f3ffaa;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="path835"
+       cx="85.52269"
+       cy="67.238411"
+       r="25" />
+    <circle
+       style="fill:#f3ffaa;stroke:none;stroke-width:8.99999;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="path835-98"
+       cx="159.55908"
+       cy="-177.75488"
+       r="25"
+       transform="rotate(89.905913)" />
+  </g>
+</svg>
