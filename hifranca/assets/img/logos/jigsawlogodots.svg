@@ -54,17 +54,17 @@
      id="layer1">
     <path
        id="rect833"
-       style="fill:#f3ffaa;fill-opacity:1;stroke:none;stroke-width:34.0157;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#fed136;fill-opacity:1;stroke:none;stroke-width:34.0157;stroke-linecap:round;stroke-linejoin:round"
        d="M 92.375 389.4707 C 88.147152 389.4707 84.742188 392.8757 84.742188 397.10352 L 84.742188 466.77148 A 151.1811 151.1811 0 0 1 93.273438 466.5293 A 151.1811 151.1811 0 0 1 244.45508 617.71094 A 151.1811 151.1811 0 0 1 93.273438 768.89062 A 151.1811 151.1811 0 0 1 84.742188 768.65039 L 84.742188 835.38281 C 84.742188 839.61067 88.147152 843.01563 92.375 843.01562 L 224.17383 843.01562 A 94.488189 94.488189 0 0 1 318.60938 751.65625 A 94.488189 94.488189 0 0 1 413.04492 843.01562 L 530.6543 843.01562 C 534.88215 843.01563 538.28711 839.61067 538.28711 835.38281 L 538.28711 397.10352 C 538.28711 392.8757 534.88215 389.4707 530.6543 389.4707 L 92.375 389.4707 z "
        transform="scale(0.26458333)" />
     <circle
-       style="fill:#f3ffaa;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="fill:#fed136;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        id="path835"
        cx="85.52269"
        cy="67.238411"
        r="25" />
     <circle
-       style="fill:#f3ffaa;stroke:none;stroke-width:8.99999;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="fill:#fed136;stroke:none;stroke-width:8.99999;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        id="path835-98"
        cx="159.55908"
        cy="-177.75488"
