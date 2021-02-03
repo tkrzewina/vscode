@@ -214,12 +214,13 @@
                 <form id="contactForm" name="sentMessage" novalidate="novalidate" data-netlify="true" method="POST">
                     
 
-                    <input name="name" type="text" class="form-control" placeholder="Your name" required>
+                    <input name="name" type="text" class="form-control" placeholder="Your name" required data-validation-required-message="Please enter your name.">
                     <br>
 
-                    <input name="e-mail" type="text" class="form-control" placeholder="Your e-mail" required>
+                    <input name="e-mail" type="text" class="form-control" placeholder="Your e-mail" required data-validation-required-message="Please enter your email address.">
                     <br>
-
+                    
+                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
 
 
 
