@@ -10119,10 +10119,10 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("https://randomgarbage.s3.eu-west-2.amazonaws.com/pool.png");
+  background-image: url("/assets/img/aaron-chavez-IrbuQKtH9o4-unsplash.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: right center;
+  background-position: center center;
   background-size: cover;
 }
 header.masthead .masthead-subheading {
